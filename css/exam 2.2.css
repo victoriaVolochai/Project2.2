@@ -1,0 +1,30 @@
+.container{
+padding-top:2em;
+}
+.remove{
+border:none !important; 
+}
+.remove:hover{
+border: 1px solid #CCCCCC;
+background-color:#d4d4d4;
+}
+input[type="number"]{
+width: 25%
+}
+input[type="text"]{
+width: 80%
+}
+.error{
+color:red;
+border-color:red !important;
+}
+input{
+border: 1px solid #CCCCCC;
+border-radius: 4px ;
+}
+.ui-spinner-button {
+background-color:#d4d4d4;
+}
+.ui-icon {
+color: #333;
+}
