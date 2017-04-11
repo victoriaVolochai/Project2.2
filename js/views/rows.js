@@ -24,10 +24,7 @@ var RowsView=Backbone.View.extend({
 	},
 	renderTotals:function(totals) {
 	this.$el.find('#totals').text('$'+ totals);
-	},
-	
-	
-	//render
+	}
 	});
 	return RowsView;
 });

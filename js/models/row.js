@@ -49,20 +49,3 @@ var RowModel=Backbone.Model.extend({
 	return RowModel;
 });
 
-/*_.each(attrs, function(value, attribute){
-	 	if(value<=0) {
-	 	var errors={};
-		switch(attribute) {
-			case 'number':
-				errors.number='Количество должно быть больше 0'
-			 break;
-			case 'price':
-				errors.price='Цена должна быть больше 0'
-			 break;
-			case 'name':
-				errors.name='Ведите названия товара'
-			 break;
-		};
-		console.log(errors);
-		return errors;
-		} */

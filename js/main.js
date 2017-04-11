@@ -1,15 +1,3 @@
-/*require.config({
-     baseUrl:'../',
-     paths: {
-         jquery: 'libs/jquery/jquery-1.12.0',
-         underscore: 'libs/underscore/underscore-1.8.3',
-         backbone: 'libs/backbone/backbone-1.2.3-min',
-         text: 'libs/require/text'
-} });
- require(['views/form'], function(AppView){
-     var form_view = new FormView;
- });
-*/
 
 'use strict';
 
